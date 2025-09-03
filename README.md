@@ -75,7 +75,7 @@ Open a Pull Request with a short summary (screenshots if visual).
 - Internationalization (future)
 
 ## Contacts
-General: contact@heailthcaire.com  
+General: info@heailthcaire.com  
 Careers: talent@heailthcaire.com  
 Security: security@heailthcaire.com  
 
@@ -86,5 +86,3 @@ Copyright (c) HEaiLTHCaiRE. All rights reserved.
 ````bash
 clone -> edit -> commit/push -> GitHub Pages auto-deploy
 ````
-
-(Replace YOUR_ORG, emails, and structure as needed.)
